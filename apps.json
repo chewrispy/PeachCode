@@ -108,9 +108,9 @@
     ],
     "sourceUrl": "https://z43n73.csb.app/",
     "buildInfo": {
-      "tool": "Claude, Gemini, CodeSandbox",
+      "tool": "Claude, Gemini, StackBlitz",
       "date": "2026-06-05",
-      "deploy": "StackBlitz",
+      "deploy": "CodeSandbox",
       "stack": [
         "React"
       ],
